@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Sudheer Kumar Das</h1>
+<p align="center">
+  Aspiring Web Developer • Frontend Focus
+</p>
 
-<!--
-**SudheerKumarDas/SudheerKumarDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
+I am a student and aspiring web developer with a strong interest in building clean, responsive, and user-friendly web interfaces. I enjoy learning by building real projects and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- **Languages:** HTML, CSS, JavaScript  
+- **Frontend:** React (learning)  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## Projects
+Some of the projects I have worked on:
+
+### Student Dashboard  
+A dashboard-style frontend project focused on layout and UI structure.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/SudheerKumarDas/student-dashboard  
+
+### Zerodha Landing Page Clone  
+A responsive landing page inspired by the Zerodha website.  
+**Tech:** HTML, CSS  
+🔗 https://github.com/SudheerKumarDas/zerodha-landing-page  
+
+### Das Grüne Homepage  
+A clean homepage design with modern layout techniques.  
+**Tech:** HTML, CSS  
+🔗 https://github.com/SudheerKumarDas/das-grune-homepage  
+
+---
+
+## GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudheerKumarDas&show_icons=true&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudheerKumarDas&layout=compact&theme=default" />
+</p>
+
+---
+
+## Contact
+- **LinkedIn:**   
+- **Email:** samratsudheerdas@gmail.com 
+
+---
+
+Thank you for visiting my GitHub profile.
