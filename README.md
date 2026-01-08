@@ -10,11 +10,29 @@ I am a student and aspiring web developer with a strong interest in building cle
 
 ---
 
-## Skills
-- **Languages:** HTML, CSS, JavaScript  
-- **Frontend:** React (learning)  
-- **Tools:** Git, GitHub, VS Code  
+## ⚙️ Tech I Work With
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
+</div>
 ---
 
 ## Projects
@@ -38,7 +56,6 @@ A clean homepage design with modern layout techniques.
 ---
 
 ## Contact
-- **LinkedIn:**   
 - **Email:** samratsudheerdas@gmail.com 
 
 ---
