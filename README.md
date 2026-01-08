@@ -10,7 +10,6 @@ I am a full-stack web developer with experience designing and building responsiv
 
 In addition to modern web technologies, I have solid programming knowledge in C, C++, and Python, which reinforces my understanding of core computer science concepts, data structures, and problem-solving. I am committed to writing high-quality code, continuously improving my technical skill set, and delivering reliable solutions through hands-on project development.
 
----
 
 ## ⚙️ Tech I Work With
 
@@ -35,7 +34,7 @@ In addition to modern web technologies, I have solid programming knowledge in C,
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
 </div>
----
+
 
 ## Projects
 Some of the projects I have worked on:
