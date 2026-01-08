@@ -37,16 +37,6 @@ A clean homepage design with modern layout techniques.
 
 ---
 
-## GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudheerKumarDas&show_icons=true&theme=default" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudheerKumarDas&layout=compact&theme=default" />
-</p>
-
----
-
 ## Contact
 - **LinkedIn:**   
 - **Email:** samratsudheerdas@gmail.com 
