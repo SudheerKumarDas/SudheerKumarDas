@@ -1,12 +1,14 @@
 <h1 align="center">Sudheer Kumar Das</h1>
 <p align="center">
-  Aspiring Web Developer • Frontend Focus
+  Aspiring Fullstack Web Developer
 </p>
 
 ---
 
 ## About
-I am a student and aspiring web developer with a strong interest in building clean, responsive, and user-friendly web interfaces. I enjoy learning by building real projects and continuously improving my skills.
+I am a full-stack web developer with experience designing and building responsive, user-focused web applications. I have a strong foundation in frontend development and practical exposure to full-stack workflows, with an emphasis on clean architecture, maintainable code, and performance-conscious design.
+
+In addition to modern web technologies, I have solid programming knowledge in C, C++, and Python, which reinforces my understanding of core computer science concepts, data structures, and problem-solving. I am committed to writing high-quality code, continuously improving my technical skill set, and delivering reliable solutions through hands-on project development.
 
 ---
 
