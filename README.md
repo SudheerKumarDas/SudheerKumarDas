@@ -49,10 +49,10 @@ A responsive landing page inspired by the Zerodha website.
 **Tech:** HTML, CSS  
 🔗 https://github.com/SudheerKumarDas/zerodha-landing-page  
 
-### Das Grüne Homepage  
-A clean homepage design with modern layout techniques.  
-**Tech:** HTML, CSS  
-🔗 https://github.com/SudheerKumarDas/das-grune-homepage  
+### Expense Tracker  
+A responsive expense tracker web app made with HTML, CSS and Vanilla JavaScript  
+**Tech:** HTML, CSS , JavaScript 
+🔗 https://github.com/SudheerKumarDas/expenseTracker  
 
 ---
 
