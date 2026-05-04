@@ -44,10 +44,10 @@ A dashboard-style frontend project focused on layout and UI structure.
 **Tech:** HTML, CSS, JavaScript  
 🔗 https://github.com/SudheerKumarDas/student-dashboard  
 
-### Zerodha Landing Page Clone  
-A responsive landing page inspired by the Zerodha website.  
-**Tech:** HTML, CSS  
-🔗 https://github.com/SudheerKumarDas/zerodha-landing-page  
+### Bg Changer  
+A responsive landing page where buttons change background to their respective color.  
+**Tech:** React.js ,Tailwind CSS  
+🔗 https://github.com/SudheerKumarDas/bgChanger  
 
 ### Expense Tracker  
 A responsive expense tracker web app made with HTML, CSS and Vanilla JavaScript  
