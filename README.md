@@ -41,9 +41,9 @@ Some of the projects I have worked on:
 
 ### 📝 Notebook App  
 A full-stack note-taking web application where users can create, read, update, and delete notes easily. Built with modern web technologies and deployed on Render.
-**Tech:** React.js, Tailwind CSS / Daisy UI, Express.js , MongoDB 
-🔗 https://github.com/SudheerKumarDas/noteBook
-🔗 **Live Demo:** [https://notebook-i487.onrender.com](https://notebook-i487.onrender.com)
+**Tech:** React.js, Tailwind CSS / Daisy UI, Express.js , MongoDB   
+🔗 https://github.com/SudheerKumarDas/noteBook  
+🔗 **Live Demo:** [https://notebook-i487.onrender.com](https://notebook-i487.onrender.com)  
 
 ### Bg Changer  
 A responsive landing page where buttons change background to their respective color.  
