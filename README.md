@@ -39,10 +39,11 @@ In addition to modern web technologies, I have solid programming knowledge in C,
 ## Projects
 Some of the projects I have worked on:
 
-### Student Dashboard  
-A dashboard-style frontend project focused on layout and UI structure.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://github.com/SudheerKumarDas/student-dashboard  
+### 📝 Notebook App  
+A full-stack note-taking web application where users can create, read, update, and delete notes easily. Built with modern web technologies and deployed on Render.
+**Tech:** React.js, Tailwind CSS / Daisy UI, Express.js , MongoDB 
+🔗 https://github.com/SudheerKumarDas/noteBook
+🔗 **Live Demo:** [https://notebook-i487.onrender.com](https://notebook-i487.onrender.com)
 
 ### Bg Changer  
 A responsive landing page where buttons change background to their respective color.  
