@@ -40,7 +40,7 @@ In addition to modern web technologies, I have solid programming knowledge in C,
 Some of the projects I have worked on:
 
 ### 📝 Notebook App  
-A full-stack note-taking web application where users can create, read, update, and delete notes easily. Built with modern web technologies and deployed on Render.
+A full-stack note-taking web application where users can create, read, update, and delete notes easily. Built with modern web technologies and deployed on Render.  
 **Tech:** React.js, Tailwind CSS / Daisy UI, Express.js , MongoDB   
 🔗 https://github.com/SudheerKumarDas/noteBook  
 🔗 **Live Demo:** [https://notebook-i487.onrender.com](https://notebook-i487.onrender.com)  
