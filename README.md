@@ -48,7 +48,7 @@ A full-stack note-taking web application where users can create, read, update, a
 ### 📝 URL Shortener
 A full-stack URL Shortener built with the MERN stack that allows users to register, log in, create short URLs, manage them, and track click statistics.  
 **Tech:** React.js, Tailwind CSS, Express.js , MongoDB   
-🔗 https://github.com/SudheerKumarDas/urlShortner  
+🔗 https://github.com/SudheerKumarDas/urlShortner   
 🔗 **Live Demo:** [https://url-shortner-cyan-six.vercel.app/]  
 
 ### Bg Changer  
