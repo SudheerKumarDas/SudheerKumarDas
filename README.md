@@ -45,7 +45,7 @@ A full-stack note-taking web application where users can create, read, update, a
 🔗 https://github.com/SudheerKumarDas/noteBook  
 🔗 **Live Demo:** [https://notebook-i487.onrender.com](https://notebook-i487.onrender.com)  
 
-### 📝 URL Shortener
+### URL Shortener
 A full-stack URL Shortener built with the MERN stack that allows users to register, log in, create short URLs, manage them, and track click statistics.  
 **Tech:** React.js, Tailwind CSS, Express.js , MongoDB   
 🔗 https://github.com/SudheerKumarDas/urlShortner   
