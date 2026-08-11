@@ -14,12 +14,6 @@ In addition to modern web technologies, I have solid programming knowledge in C,
 ## ⚙️ Tech I Work With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" />
