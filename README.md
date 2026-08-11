@@ -8,7 +8,7 @@
 ## About
 I am a full-stack web developer with experience designing and building responsive, user-focused web applications. I have a strong foundation in frontend development and practical exposure to full-stack workflows, with an emphasis on clean architecture, maintainable code, and performance-conscious design.
 
-In addition to modern web technologies, I have solid programming knowledge in C, C++, and Python, which reinforces my understanding of core computer science concepts, data structures, and problem-solving. I am committed to writing high-quality code, continuously improving my technical skill set, and delivering reliable solutions through hands-on project development.
+In addition to modern web technologies, I have solid programming knowledge in C and C++, which reinforces my understanding of core computer science concepts, data structures, and problem-solving. I am committed to writing high-quality code, continuously improving my technical skill set, and delivering reliable solutions through hands-on project development.
 
 
 ## ⚙️ Tech I Work With
